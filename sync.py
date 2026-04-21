@@ -2,7 +2,7 @@ import requests
 import os
 import json
 
-BASE_URL = "https://Oishii-Udon.github.io/repo"
+BASE_URL = "https://Oishii-Udon.github.io/LCSource"
 APPS_DIR = "apps"
 STATE_FILE = "state.json"
 
