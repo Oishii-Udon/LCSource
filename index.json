@@ -1,32 +1,33 @@
 {
+  "name": "My Source",
   "apps": [
     {
       "name": "PiliPlus",
-      "bundleID": "auto.piliplus",
+      "bundleIdentifier": "auto.piliplus",
       "version": "2.0.4",
-      "downloadURL": "https://Oishii-Udon.github.io/repo/apps/PiliPlus.ipa",
-      "description": "PiliPlus auto synced"
+      "downloadURL": "https://Oishii-Udon.github.io/LCSource/apps/PiliPlus.ipa",
+      "iconURL": ""
     },
     {
       "name": "Aidoku",
-      "bundleID": "auto.aidoku",
+      "bundleIdentifier": "auto.aidoku",
       "version": "v0.8.2",
-      "downloadURL": "https://Oishii-Udon.github.io/repo/apps/Aidoku.ipa",
-      "description": "Aidoku auto synced"
+      "downloadURL": "https://Oishii-Udon.github.io/LCSource/apps/Aidoku.ipa",
+      "iconURL": ""
     },
     {
       "name": "EHPanda",
-      "bundleID": "auto.ehpanda",
+      "bundleIdentifier": "auto.ehpanda",
       "version": "v2.8.0",
-      "downloadURL": "https://Oishii-Udon.github.io/repo/apps/EHPanda.ipa",
-      "description": "EHPanda auto synced"
+      "downloadURL": "https://Oishii-Udon.github.io/LCSource/apps/EHPanda.ipa",
+      "iconURL": ""
     },
     {
       "name": "animeko",
-      "bundleID": "auto.animeko",
+      "bundleIdentifier": "auto.animeko",
       "version": "v5.4.3",
-      "downloadURL": "https://Oishii-Udon.github.io/repo/apps/animeko.ipa",
-      "description": "animeko auto synced"
+      "downloadURL": "https://Oishii-Udon.github.io/LCSource/apps/animeko.ipa",
+      "iconURL": ""
     }
   ]
 }
