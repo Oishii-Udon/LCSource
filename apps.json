@@ -1,0 +1,24 @@
+{
+    "apps": [
+        {
+            "name": "PiliPlus",
+            "repo": "bggRGjQaUbCoE/PiliPlus",
+            "asset_keyword": ".ipa"
+        },
+        {
+            "name": "Aidoku",
+            "repo": "Aidoku/Aidoku",
+            "asset_keyword": ".ipa"
+        },
+        {
+            "name": "EHPanda",
+            "repo": "EhPanda-Team/EhPanda",
+            "asset_keyword": ".ipa"
+        },
+        {
+            "name": "animeko",
+            "repo": "open-ani/animeko",
+            "asset_keyword": ".ipa"
+        }
+    ]
+}

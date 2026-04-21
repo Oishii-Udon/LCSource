@@ -1,0 +1,27 @@
+name: Sync Apps
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # 每6小時
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-python@v4
+
+      - run: pip install requests
+
+      - run: python sync.py
+
+      - name: Commit
+        run: |
+          git config user.name "bot"
+          git config user.email "bot@example.com"
+          git add .
+          git commit -m "auto sync" || echo "no changes"
+          git push
