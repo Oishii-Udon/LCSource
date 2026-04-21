@@ -66,10 +66,10 @@ for app in config["apps"]:
 
     result.append({
         "name": name,
-        "bundleID": f"auto.{name.lower()}",
+        "bundleIdentifier": f"auto.{name.lower()}",
         "version": version,
         "downloadURL": f"{BASE_URL}/{APPS_DIR}/{filename}",
-        "description": f"{name} auto synced"
+        "iconURL": "",
     })
 
 # 保存版本記錄
@@ -78,6 +78,9 @@ with open(STATE_FILE, "w") as f:
 
 # 生成 index.json
 with open("index.json", "w") as f:
-    json.dump({"apps": result}, f, indent=2)
+    json.dump({
+        "name": "My Source",
+        "apps": result
+    }, f, indent=2)
 
 print("Done.")
