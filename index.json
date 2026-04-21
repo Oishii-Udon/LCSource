@@ -5,28 +5,28 @@
       "name": "PiliPlus",
       "bundleIdentifier": "auto.piliplus",
       "version": "2.0.4",
-      "downloadURL": "https://Oishii-Udon.github.io/LCSource/apps/PiliPlus.ipa",
+      "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.0.4/PiliPlus_ios_2.0.4%2B4848.ipa",
       "iconURL": ""
     },
     {
       "name": "Aidoku",
       "bundleIdentifier": "auto.aidoku",
       "version": "v0.8.2",
-      "downloadURL": "https://Oishii-Udon.github.io/LCSource/apps/Aidoku.ipa",
+      "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.8.2/Aidoku.ipa",
       "iconURL": ""
     },
     {
       "name": "EHPanda",
       "bundleIdentifier": "auto.ehpanda",
       "version": "v2.8.0",
-      "downloadURL": "https://Oishii-Udon.github.io/LCSource/apps/EHPanda.ipa",
+      "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.8.0/EhPanda.ipa",
       "iconURL": ""
     },
     {
       "name": "animeko",
       "bundleIdentifier": "auto.animeko",
       "version": "v5.4.3",
-      "downloadURL": "https://Oishii-Udon.github.io/LCSource/apps/animeko.ipa",
+      "downloadURL": "https://github.com/open-ani/animeko/releases/download/v5.4.3/ani-5.4.3.ipa",
       "iconURL": ""
     }
   ]
