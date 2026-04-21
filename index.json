@@ -1,3 +1,32 @@
 {
-    "apps": []
+  "apps": [
+    {
+      "name": "PiliPlus",
+      "bundleID": "auto.piliplus",
+      "version": "2.0.4",
+      "downloadURL": "https://Oishii-Udon.github.io/repo/apps/PiliPlus.ipa",
+      "description": "PiliPlus auto synced"
+    },
+    {
+      "name": "Aidoku",
+      "bundleID": "auto.aidoku",
+      "version": "v0.8.2",
+      "downloadURL": "https://Oishii-Udon.github.io/repo/apps/Aidoku.ipa",
+      "description": "Aidoku auto synced"
+    },
+    {
+      "name": "EHPanda",
+      "bundleID": "auto.ehpanda",
+      "version": "v2.8.0",
+      "downloadURL": "https://Oishii-Udon.github.io/repo/apps/EHPanda.ipa",
+      "description": "EHPanda auto synced"
+    },
+    {
+      "name": "animeko",
+      "bundleID": "auto.animeko",
+      "version": "v5.4.3",
+      "downloadURL": "https://Oishii-Udon.github.io/repo/apps/animeko.ipa",
+      "description": "animeko auto synced"
+    }
+  ]
 }
