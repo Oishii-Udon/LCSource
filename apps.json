@@ -19,6 +19,11 @@
             "name": "animeko",
             "repo": "open-ani/animeko",
             "asset_keyword": ".ipa"
+        },
+        {
+            "name": "Novella",
+            "repo": "Kanscape/Novella",
+            "asset_keyword": ".ipa"
         }
     ]
 }
