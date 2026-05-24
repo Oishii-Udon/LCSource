@@ -28,6 +28,13 @@
       "version": "v5.5.1",
       "downloadURL": "https://github.com/open-ani/animeko/releases/download/v5.5.1/ani-5.5.1.ipa",
       "iconURL": ""
+    },
+    {
+      "name": "Novella",
+      "bundleIdentifier": "auto.novella",
+      "version": "v1.7.0",
+      "downloadURL": "https://github.com/Kanscape/Novella/releases/download/v1.7.0/Novella-1.7.0-release.ipa",
+      "iconURL": ""
     }
   ]
 }
