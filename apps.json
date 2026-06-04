@@ -24,6 +24,16 @@
             "name": "Novella",
             "repo": "Kanscape/Novella",
             "asset_keyword": ".ipa"
+        },
+        {
+            "name": "StikDebug",
+            "repo": "StephenDev0/StikDebug",
+            "asset_keyword": ".ipa"
+        },
+        {
+            "name": "UTM",
+            "repo": "utmapp/UTM",
+            "asset_keyword": "UTM.ipa"
         }
     ]
 }
