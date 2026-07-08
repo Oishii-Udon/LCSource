@@ -16,6 +16,13 @@
       "iconURL": ""
     },
     {
+      "name": "EHPanda",
+      "bundleIdentifier": "auto.ehpanda",
+      "version": "v2.7.10",
+      "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.7.10/EhPanda.ipa",
+      "iconURL": ""
+    },
+    {
       "name": "animeko",
       "bundleIdentifier": "auto.animeko",
       "version": "v5.7.0",
