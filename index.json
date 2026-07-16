@@ -23,10 +23,10 @@
       "iconURL": ""
     },
     {
-      "name": "animeko",
-      "bundleIdentifier": "auto.animeko",
-      "version": "v5.7.1",
-      "downloadURL": "https://github.com/open-ani/animeko/releases/download/v5.7.1/ani-5.7.1.ipa",
+      "name": "Kazumi",
+      "bundleIdentifier": "auto.kazumi",
+      "version": "2.2.1",
+      "downloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.2.1/Kazumi_ios_2.2.1_no_sign.ipa",
       "iconURL": ""
     },
     {
