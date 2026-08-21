@@ -11,11 +11,6 @@
             "asset_keyword": ".ipa"
         },
         {
-            "name": "EHPanda",
-            "repo": "EhPanda-Team/EhPanda",
-            "asset_keyword": ".ipa"
-        },
-        {
             "name": "Kazumi",
             "repo": "Predidit/Kazumi",
             "asset_keyword": ".ipa"
@@ -34,6 +29,16 @@
             "name": "UTM",
             "repo": "utmapp/UTM",
             "asset_keyword": "UTM.ipa"
+        },
+        {
+            "name": "EHPanda",
+            "repo": "EhPanda-Team/EhPanda",
+            "asset_keyword": ".ipa"
+        },
+        {
+            "name": "Hana",
+            "repo": "Kanscape/Hana",
+            "asset_keyword": ".ipa"
         }
     ]
 }
