@@ -16,13 +16,6 @@
       "iconURL": ""
     },
     {
-      "name": "EHPanda",
-      "bundleIdentifier": "auto.ehpanda",
-      "version": "v2.8.1",
-      "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.8.1/EhPanda.ipa",
-      "iconURL": ""
-    },
-    {
       "name": "Kazumi",
       "bundleIdentifier": "auto.kazumi",
       "version": "2.2.9",
@@ -48,6 +41,20 @@
       "bundleIdentifier": "auto.utm",
       "version": "v4.7.5",
       "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.7.5/UTM.ipa",
+      "iconURL": ""
+    },
+    {
+      "name": "EHPanda",
+      "bundleIdentifier": "auto.ehpanda",
+      "version": "v2.8.1",
+      "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.8.1/EhPanda.ipa",
+      "iconURL": ""
+    },
+    {
+      "name": "Hana",
+      "bundleIdentifier": "auto.hana",
+      "version": "v1.0.0",
+      "downloadURL": "https://github.com/Kanscape/Hana/releases/download/v1.0.0/Hana-iOS-1.0.0-30-unsigned.ipa",
       "iconURL": ""
     }
   ]
