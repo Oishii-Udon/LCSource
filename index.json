@@ -25,15 +25,15 @@
     {
       "name": "Kazumi",
       "bundleIdentifier": "auto.kazumi",
-      "version": "2.2.8",
-      "downloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.2.8/Kazumi_ios_2.2.8_no_sign.ipa",
+      "version": "2.2.9",
+      "downloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.2.9/Kazumi_ios_2.2.9_no_sign.ipa",
       "iconURL": ""
     },
     {
       "name": "Novella",
       "bundleIdentifier": "auto.novella",
-      "version": "v1.10.0",
-      "downloadURL": "https://github.com/celia-sh/Novella/releases/download/v1.10.0/Novella-1.10.0-release.ipa",
+      "version": "v2.1.0",
+      "downloadURL": "https://github.com/celia-sh/Novella/releases/download/v2.1.0/Novella-2.1.0-release.ipa",
       "iconURL": ""
     },
     {
