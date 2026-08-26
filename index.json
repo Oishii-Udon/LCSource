@@ -4,8 +4,8 @@
     {
       "name": "PiliPlus",
       "bundleIdentifier": "auto.piliplus",
-      "version": "2.1.2",
-      "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.2/PiliPlus_ios_2.1.2%2B5241.ipa",
+      "version": "2.1.2.1",
+      "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.2.1/PiliPlus_ios_2.1.2%2B5255.ipa",
       "iconURL": ""
     },
     {
@@ -25,8 +25,8 @@
     {
       "name": "Novella",
       "bundleIdentifier": "auto.novella",
-      "version": "v2.1.0",
-      "downloadURL": "https://github.com/celia-sh/Novella/releases/download/v2.1.0/Novella-2.1.0-release.ipa",
+      "version": "v2.2.0",
+      "downloadURL": "https://github.com/celia-sh/Novella/releases/download/v2.2.0/Novella-2.2.0-release.ipa",
       "iconURL": ""
     },
     {
