@@ -53,8 +53,8 @@
     {
       "name": "Hana",
       "bundleIdentifier": "auto.hana",
-      "version": "v1.0.0",
-      "downloadURL": "https://github.com/Kanscape/Hana/releases/download/v1.0.0/Hana-iOS-1.0.0-30-unsigned.ipa",
+      "version": "v1.1.0",
+      "downloadURL": "https://github.com/celia-sh/Hana/releases/download/v1.1.0/Hana-iOS-1.1.0-45-unsigned.ipa",
       "iconURL": ""
     }
   ]
