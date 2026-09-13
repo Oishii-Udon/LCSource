@@ -28,6 +28,34 @@
       "version": "v2.4.0",
       "downloadURL": "https://github.com/celia-sh/Novella/releases/download/v2.4.0/Novella-2.4.0-release.ipa",
       "iconURL": ""
+    },
+    {
+      "name": "StikDebug",
+      "bundleIdentifier": "auto.stikdebug",
+      "version": "3.1.10",
+      "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.10/StikDebug-3.1.10.ipa",
+      "iconURL": ""
+    },
+    {
+      "name": "UTM",
+      "bundleIdentifier": "auto.utm",
+      "version": "v4.7.5",
+      "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.7.5/UTM.ipa",
+      "iconURL": ""
+    },
+    {
+      "name": "EHPanda",
+      "bundleIdentifier": "auto.ehpanda",
+      "version": "v2.8.1",
+      "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.8.1/EhPanda.ipa",
+      "iconURL": ""
+    },
+    {
+      "name": "Hana",
+      "bundleIdentifier": "auto.hana",
+      "version": "v1.1.0",
+      "downloadURL": "https://github.com/celia-sh/Hana/releases/download/v1.1.0/Hana-iOS-1.1.0-45-unsigned.ipa",
+      "iconURL": ""
     }
   ]
 }
