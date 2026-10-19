@@ -1,4 +1,61 @@
 {
   "name": "My Source",
-  "apps": []
+  "apps": [
+    {
+      "name": "PiliPlus",
+      "bundleIdentifier": "auto.piliplus",
+      "version": "2.1.6.2",
+      "downloadURL": "https://github.com/bggRGjQaUbCoE/PiliPlus/releases/download/2.1.6.2/PiliPlus_ios_2.1.6%2B5472.ipa",
+      "iconURL": ""
+    },
+    {
+      "name": "Aidoku",
+      "bundleIdentifier": "auto.aidoku",
+      "version": "v0.9-4",
+      "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.9-4/Aidoku.ipa",
+      "iconURL": ""
+    },
+    {
+      "name": "Kazumi",
+      "bundleIdentifier": "auto.kazumi",
+      "version": "2.3.9",
+      "downloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.3.9/Kazumi_ios_2.3.9_no_sign.ipa",
+      "iconURL": ""
+    },
+    {
+      "name": "Novella",
+      "bundleIdentifier": "auto.novella",
+      "version": "v2.5.0",
+      "downloadURL": "https://github.com/celia-sh/Novella/releases/download/v2.5.0/Novella-2.5.0-release.ipa",
+      "iconURL": ""
+    },
+    {
+      "name": "StikDebug",
+      "bundleIdentifier": "auto.stikdebug",
+      "version": "3.1.15",
+      "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.15/StikDebug-3.1.15.ipa",
+      "iconURL": ""
+    },
+    {
+      "name": "UTM",
+      "bundleIdentifier": "auto.utm",
+      "version": "v5.0.8",
+      "downloadURL": "https://github.com/utmapp/UTM/releases/download/v5.0.8/UTM.ipa",
+      "iconURL": ""
+    },
+    {
+      "name": "EHPanda",
+      "bundleIdentifier": "auto.ehpanda",
+      "version": "v2.8.1",
+      "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.8.1/EhPanda.ipa",
+      "iconURL": ""
+    },
+    {
+      "name": "Hana",
+      "bundleIdentifier": "auto.hana",
+      "version": "v1.1.0",
+      "downloadURL": "https://github.com/celia-sh/Hana/releases/download/v1.1.0/Hana-iOS-1.1.0-45-unsigned.ipa",
+      "iconURL": ""
+    }
+  ]
 }
