@@ -23,13 +23,6 @@
       "iconURL": ""
     },
     {
-      "name": "Novella",
-      "bundleIdentifier": "auto.novella",
-      "version": "v2.7.0",
-      "downloadURL": "https://github.com/celia-sh/Novella/releases/download/v2.7.0/Novella-2.7.0-release.ipa",
-      "iconURL": ""
-    },
-    {
       "name": "StikDebug",
       "bundleIdentifier": "auto.stikdebug",
       "version": "3.2.0",
